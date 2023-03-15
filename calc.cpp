@@ -26,9 +26,8 @@ int main() {
 
                     
 
-    case 4:     // code
+    case 4:  if(b != 0) result = a / b;  break;
 
-                    break;
 
   }
 
