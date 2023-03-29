@@ -28,6 +28,7 @@ int main() {
 
     case 4:  if(b != 0) result = a / b;  break;
 
+    case 5: result = pow(a, b); break;
 
   }
 
